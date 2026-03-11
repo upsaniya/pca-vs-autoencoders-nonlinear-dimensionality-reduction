@@ -1,7 +1,5 @@
 # pca-vs-autoencoders-nonlinear-dimensionality-reduction
 
-# pca-vs-autoencoders-nonlinear-dimensionality-reduction
-
 __I. Datasets__
 
 MNIST Dataset
